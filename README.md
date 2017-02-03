@@ -1,16 +1,16 @@
 # Alpha Game
 A simple and small unique java game made by using appletviewer
 
-# How to Run
-+. Clone this repo.
-+. Go to `src` folder
-+. Compile all .java dependencies
+## How to Run
+1. Clone this repo.
+2. Go to `src` folder.
+3. Compile all .java dependencies  
 	<pre>javac Target.java
 	javac Enemy.java
 	javac Player.java
 	</pre>
-+. Compile Alpha.java
-	`javac Aplha.java`
-+. Use `appletviewer` to run the game
+4. Compile Alpha.java.  
+	`javac Alpha.java`
+5. Use `appletviewer` to run the game.  
 	`appletviewer Alpha.java`
-+. Game intructions are mentioned in the game itself.
+6. Game intructions are mentioned in the game itself.
